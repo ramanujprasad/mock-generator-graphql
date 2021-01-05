@@ -24,10 +24,10 @@ Run `npm run build:watch` to generate the mock folder. You can find the mappings
 > Generated folder:
 
 ### A typical layout
-    .
+
     mock
     ├── __files                 # Generated mock json files
     └── mappings                # Generated mapping based on codegen.yml file
 
-    .
+
 > You could also see `dist` folder generated for compiles libraries.
