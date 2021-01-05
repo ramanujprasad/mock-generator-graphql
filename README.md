@@ -24,6 +24,11 @@ Run `npm run build:watch` to generate the mock folder. You can find the mappings
 > Generated folder:
 
 ### A typical layout
+    .
+    mock
+    ├── build                   # Compiled files (alternatively `dist`)
+    ├── docs                    # Documentation files (alternatively `doc`)
+    └── README.md
 
     .
 mock
