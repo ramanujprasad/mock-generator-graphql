@@ -27,11 +27,7 @@ Run `npm run build:watch` to generate the mock folder. You can find the mappings
     .
     mock
     ├── __files                 # Generated mock json files
-    └── README.md               # Generated mapping based on codegen.yml file
+    └── mappings                # Generated mapping based on codegen.yml file
 
     .
-mock
-    ├── __files                   # Generated mock json files
-    └── mappings                  # Generated mapping based on codegen.yml file
-
 > You could also see `dist` folder generated for compiles libraries.
